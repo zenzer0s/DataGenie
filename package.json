@@ -1,0 +1,27 @@
+{
+  "name": "datagenie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenzer0s/DataGenie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenzer0s/DataGenie/issues"
+  },
+  "homepage": "https://github.com/zenzer0s/DataGenie#readme",
+  "dependencies": {
+    "puppeteer": "^24.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
