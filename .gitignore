@@ -29,3 +29,6 @@ debug.log
 .screenshots/
 config.py
 config.py
+
+DataGenie/bot
+/config.py
