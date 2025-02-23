@@ -27,8 +27,5 @@ debug.log
 
 # Puppeteer cache
 .screenshots/
-config.py
-config.py
 
-DataGenie/bot
-/config.py
+config.py
