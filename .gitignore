@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Logs & Debug
+logs/
+*.log
+debug.log
+
+# Environment Variables
+.env
+
+# Compiled files
+*.out
+*.swp
+*.swo
+
+# VS Code settings
+.vscode/
+
+# Puppeteer cache
+.screenshots/
+config.py
+config.py
